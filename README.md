@@ -1,2 +1,2 @@
 # karacsony-projekt
-Karácsony projekt sz iskolába
+Karácsony projekt az iskolába
